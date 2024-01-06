@@ -46,7 +46,7 @@ body {
 }
 
 .menu-button a:hover {
-  color: yellow;
+  color: #ffe751;
   transition: ease-in 0.2s;
 }
 
@@ -110,7 +110,7 @@ h4 {
 }
 
 .button a:hover {
-  color: yellow;
+  color: #ffe751;
   transition: ease-in 0.2s;
 }
 
